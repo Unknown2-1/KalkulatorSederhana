@@ -1,0 +1,17 @@
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.Form1.resources
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.csproj.GenerateResource.cache
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.AssemblyInfoInputs.cache
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.AssemblyInfo.cs
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.csproj.CoreCompileInputs.cache
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\net8.0-windows\KalkulatorSederhana.exe
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\net8.0-windows\KalkulatorSederhana.deps.json
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\net8.0-windows\KalkulatorSederhana.runtimeconfig.json
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\net8.0-windows\KalkulatorSederhana.dll
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\net8.0-windows\KalkulatorSederhana.pdb
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.dll
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\refint\KalkulatorSederhana.dll
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.pdb
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.genruntimeconfig.cache
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\ref\KalkulatorSederhana.dll
+D:\_DPK_A\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.sourcelink.json
